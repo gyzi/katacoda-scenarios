@@ -3,6 +3,7 @@ This is an example repository. Starting building your own scenario by editing th
 
 
 ## index.json
+
 The file _index.json_ contains all the information about the scenario. It has the title, description and a heading for each step.
 
 The file also contains an imageid. This refers to the Katacoda environment. Here are some environment image IDs you may find useful:
@@ -20,6 +21,5 @@ The file also contains an imageid. This refers to the Katacoda environment. Here
 
 ## Pro Author Accounts
 Interested in metrics, private repositories and environments for classroom teaching? Update to become a Pro Author at https://katacoda.com/teach
-
 ## Interactive Developer Portals
 Want to take your scenarios to the next level? Visit https://katacoda.com/embed
